@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aneesha Jose</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate techy from India</h3>
 
-- 🔭 I’m currently working on **Project Management System**
 
-- 🌱 I’m currently learning **Web development, App development and AI**
-
-- 📫 How to reach me **aneeshajose1244@gmail.com**
+- 📫 How to reach me **aneeshajose123375@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
